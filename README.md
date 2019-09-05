@@ -2,3 +2,5 @@
 hello-world
 
 privet
+
+privet from VS
